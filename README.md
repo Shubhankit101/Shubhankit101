@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankit101&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankit101" /> </p>
 
-- 💼 Software Engineer at [Ivy](https://ivy.global/)
+- 💼 Software Engineer at [**Ivy**](https://ivy.global/)
 
 - 🌱 I’m currently learning **Angular**
 
