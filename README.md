@@ -9,9 +9,9 @@
 
 - 💼 Software Engineer at [**Ivy**](https://ivy.global/)
 
-- 🌱 I’m currently learning **Angular**
+<!-- - 🌱 I’m currently learning **** -->
 
-- 💬 Ask me about **.NET, Javascript, C++**
+- 💬 Ask me about **.NET, Angular, C++**
 
 - 📫 How to reach me **shubhankit1067@gmail.com**
 <br><br>
