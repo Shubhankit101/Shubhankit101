@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/shubhankit-tiwari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://www.hackerrank.com/shubhankit101" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
@@ -68,7 +68,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Angular" width="40" height="40"/>
   </a>
   <a href="https://angular.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="43" height="43">
   </a>
 </p>
 
@@ -76,10 +76,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhankit101&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhankit101&layout=donut-vertical&theme=radical" alt="Top Languages" />
 </p>
