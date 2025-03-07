@@ -3,19 +3,20 @@
 <h1 align="center">Hi 👋, I'm Shubhankit Tiwari</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhankit101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 🚀 About Me
-
-- 💼 Software Engineer at [**Ivy**](https://ivy.global/)  
-- 💬 Ask me about **.NET, Angular, C++**  
-- 📫 Reach me at **shubhankit1067@gmail.com**  
-
----
+<div style="display: flex; align-items: center;">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <div>
+    <h2>🚀 About Me</h2>
+    <p>💼 Software Engineer at <a href="https://ivy.global/">Ivy</a></p>
+    <p>💬 Ask me about <b>.NET, Angular, C++</b></p>
+    <p>📫 Reach me at <b>shubhankit1067@gmail.com</b></p>
+  </div>
+</div>
 
 ## 🌐 Connect with Me
 
