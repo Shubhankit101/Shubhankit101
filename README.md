@@ -71,7 +71,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Angular" width="40" height="40"/>
   </a>
   <a href="https://angular.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="52" height="52">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="48" height="48">
   </a>
 </p>
 
